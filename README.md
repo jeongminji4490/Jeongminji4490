@@ -1,5 +1,9 @@
 ### Hi there 👋
-###### I am a software department student interested in Android app development.
+##### I am a software department student interested in Android app development.
+##### Main language is java, C++, C ✨
+##### and I'm currently learing python, dart, kotlin 🌱 
+
+## 
 
 <!--
 **jeongminji4490/Jeongminji4490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
