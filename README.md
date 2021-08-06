@@ -1,8 +1,8 @@
 ### Hi there 👋
 ##### I am a software department student interested in 
 ### Android app development.
-#### ***Main language*** is java, python, C++, C ✨
-#### and ***I'm currently*** learing dart, kotlin 🌱 
+#### ***Main language*** is java ✨
+#### and ***I'm currently*** learing python, dart, kotlin 🌱 
 
 ## 
 
