@@ -3,7 +3,8 @@
 ### Android app development.
 #### ***Main language*** is java ✨
 #### and ***I'm currently*** learing python, dart, kotlin 🌱 
-
+### My Notion
+https://www.notion.so/Main-2703aba0634c40afbafc931f8fb1a40f
 ## 
 
 <!--
