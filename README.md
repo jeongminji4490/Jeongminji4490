@@ -5,7 +5,7 @@
 #### and ***I'm currently*** learing python, dart, kotlin 🌱 
 
 ### My Notion
-https://www.notion.so/Main-2703aba0634c40afbafc931f8fb1a40f
+https://nervous-course-1e0.notion.site/Main-2703aba0634c40afbafc931f8fb1a40f
 ## 
 
 <!--
