@@ -1,9 +1,3 @@
-### Hi there 👋
-##### I am a software department student interested in 
-### Android app development.
-#### ***Main language*** is java ✨
-#### and ***I'm currently*** learing python, dart, kotlin 🌱 
-
 ### My Notion
 https://nervous-course-1e0.notion.site/Main-2703aba0634c40afbafc931f8fb1a40f
 ## 
