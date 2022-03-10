@@ -2,7 +2,7 @@
 https://nervous-course-1e0.notion.site/PortFolio-2e3d73d329bf4a6d8fb4df5321cc3e44
 ## 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!--
 **jeongminji4490/Jeongminji4490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
