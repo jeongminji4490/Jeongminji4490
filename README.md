@@ -1,4 +1,4 @@
-[portfolio](https://nervous-course-1e0.notion.site/PortFolio-2e3d73d329bf4a6d8fb4df5321cc3e44)
+📫[portfolio](https://nervous-course-1e0.notion.site/PortFolio-2e3d73d329bf4a6d8fb4df5321cc3e44)
 ## 
 ### stacks
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
