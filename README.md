@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongminji4490&count_bg=%23F9CDF8&title_bg=%2364D2F9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-###Hi, there! 😄
-###I'm hoping to become an **Android** developer.
+### Hi, there! 😄
+### I'm hoping to become an **Android** developer.
 
-💬 [![Notion Badge](http://img.shields.io/badge/-Portfolio-FF3366?style=flat&link=https://nervous-course-1e0.notion.site/Portfolio-2e3d73d329bf4a6d8fb4df5321cc3e44)](https://nervous-course-1e0.notion.site/Portfolio-2e3d73d329bf4a6d8fb4df5321cc3e44)
-💻 [![Notion Badge](http://img.shields.io/badge/-TechBlog-000000?style=flat&link=https://nervous-course-1e0.notion.site/Study-List-53fe86bb97064a649c10dfb47daba9b3)](https://nervous-course-1e0.notion.site/Study-List-53fe86bb97064a649c10dfb47daba9b3)
+[![Notion Badge](http://img.shields.io/badge/-Portfolio-FDEE21?style=flat&link=https://nervous-course-1e0.notion.site/Portfolio-2e3d73d329bf4a6d8fb4df5321cc3e44)](https://nervous-course-1e0.notion.site/Portfolio-2e3d73d329bf4a6d8fb4df5321cc3e44)
+[![Notion Badge](http://img.shields.io/badge/-TechBlog-5468FF?style=flat&link=https://nervous-course-1e0.notion.site/Study-List-53fe86bb97064a649c10dfb47daba9b3)](https://nervous-course-1e0.notion.site/Study-List-53fe86bb97064a649c10dfb47daba9b3)
 
 
 
