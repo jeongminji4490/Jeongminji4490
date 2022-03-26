@@ -11,7 +11,6 @@
 ![](http://img.shields.io/badge/-Jetpack-FF5D01?style=flat)
 ![](http://img.shields.io/badge/-Retrofit-F9DC3E?style=flat)
 ![](http://img.shields.io/badge/-Coroutine-148EFF?style=flat)
-![](http://img.shields.io/badge/-RxJava-77216F?style=flat)
 ![](http://img.shields.io/badge/-Koin-FF4088?style=flat)
 ![](http://img.shields.io/badge/-Firebase-00E7C3?style=flat)
 ![](http://img.shields.io/badge/-Git-003A9B?style=flat)
