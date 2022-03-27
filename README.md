@@ -14,8 +14,6 @@
 ![](http://img.shields.io/badge/-Koin-FF4088?style=flat)
 ![](http://img.shields.io/badge/-Firebase-00E7C3?style=flat)
 ![](http://img.shields.io/badge/-Git-003A9B?style=flat)
-# 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongminji4490&layout=compact&theme=algolia)
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongminji4490&count_private=true&show_icons=true&theme=algolia)
 
