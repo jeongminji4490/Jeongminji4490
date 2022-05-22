@@ -1,7 +1,6 @@
 ### Hi, there! 😄
 #### I'm hoping to become an **Android** developer.
 
-[![Notion Badge](http://img.shields.io/badge/-Portfolio-FF5A5F?style=flat&link=https://nervous-course-1e0.notion.site/Jeong-Min-ji-4f2bbe19db1440fc9f8d6ec747e6895d)](https://nervous-course-1e0.notion.site/Jeong-Min-ji-4f2bbe19db1440fc9f8d6ec747e6895d)
 [![Notion Badge](http://img.shields.io/badge/-TechBlog-5468FF?style=flat&link=https://velog.io/@jeongminji4490)](https://velog.io/@jeongminji4490)
 #
 ### ⚡Tech stacks
