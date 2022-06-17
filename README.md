@@ -12,7 +12,8 @@
 ![](http://img.shields.io/badge/-Firebase-00E7C3?style=flat)
 ![](http://img.shields.io/badge/-Git-003A9B?style=flat)
 #
-[![Notion Badge](http://img.shields.io/badge/-TechBlog-5468FF?style=flat&link=https://velog.io/@jeongminji4490)](https://velog.io/@jeongminji4490)
+[Tech Blog](https://velog.io/@jeongminji4490)
+#
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongminji4490)](https://velog.io/@jeongminji4490)
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongminji4490&count_private=true&show_icons=true&theme=default)
