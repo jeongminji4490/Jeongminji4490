@@ -5,7 +5,7 @@
 #
 
 <div align="center">
-  ### ⚡Tech stacks
+  ⚡Tech stacks
     ![](http://img.shields.io/badge/-Android-3DDC84?style=flat)
     ![](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat)
     ![](http://img.shields.io/badge/-Java-007396?style=flat)
