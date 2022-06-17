@@ -17,6 +17,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongminji4490&count_private=true&show_icons=true&theme=algolia)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongminji4490)](https://velog.io/@jeongminji4490)
 
+<div align="center">
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongminji4490)](https://velog.io/@jeongminji4490)
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongminji4490&count_private=true&show_icons=true&theme=default)
+
+</div>
+
+
+
 
 <!--
 **jeongminji4490/Jeongminji4490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
