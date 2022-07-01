@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62979330/176820514-a98817b4-0334-4f58-a475-abd1563edab6.gif" width=50% height=50%>
+  <img src="https://user-images.githubusercontent.com/62979330/176825747-56c24117-6968-4c55-a704-f15a4c3d2d00.gif" width=80% height=80%>
 </p>
 
 <div align="center">
-  <h3>Hi, there! 😄 I'm hoping to become an Android developer.</h3>
+  <h3>Hi, there!</h3>
+</div>
+
+<div align="center">
+  <h4>😄 I'm hoping to become an Android developer.</h4>
 </div>
 
 #
 
 <div align="center">
-  <h3>⚡ Android stacks ⚡</h3>
+  <h3>⚡ Stacks ⚡</h3>
 </div>
 
 <p align="center">
@@ -21,7 +25,10 @@
   <img src="http://img.shields.io/badge/-Coroutine-800080?style=flat-square">
   <img src="http://img.shields.io/badge/-Koin-FF4088?style=flat-square">
   <img src="http://img.shields.io/badge/-Firebase-4169E1?style=flat-square">
+  <img src="http://img.shields.io/badge/-Postman-FF4500?style=flat-square">
   <img src="http://img.shields.io/badge/-Git-000000?style=flat-square">
+  <img src="http://img.shields.io/badge/-Notion-000000?style=flat-square">
+  <img src="http://img.shields.io/badge/-Slack-800080?style=flat-square">
 </p>
 
 #
