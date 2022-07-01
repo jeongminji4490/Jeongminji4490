@@ -1,23 +1,36 @@
-### Hi, there! 😄
-#### I'm hoping to become an **Android** developer.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62979330/176820514-a98817b4-0334-4f58-a475-abd1563edab6.gif" width=50% height=50%>
+</p>
+
+<div align="center">
+  <h3>Hi, there! 😄 I'm hoping to become an Android developer.</h3>
+</div>
+
 #
-### ⚡Tech stacks
-![](http://img.shields.io/badge/-Android-3DDC84?style=flat)
-![](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat)
-![](http://img.shields.io/badge/-Java-007396?style=flat)
-![](http://img.shields.io/badge/-Jetpack-FF5D01?style=flat)
-![](http://img.shields.io/badge/-Retrofit-F9DC3E?style=flat)
-![](http://img.shields.io/badge/-Coroutine-148EFF?style=flat)
-![](http://img.shields.io/badge/-Koin-FF4088?style=flat)
-![](http://img.shields.io/badge/-Firebase-00E7C3?style=flat)
-![](http://img.shields.io/badge/-Git-003A9B?style=flat)
+
+<div align="center">
+  <h3>⚡ Android stacks ⚡</h3>
+</div>
+
+<p align="center">
+  <img src="http://img.shields.io/badge/-Android-3DDC84?style=flat-square">
+  <img src="http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square">
+  <img src="http://img.shields.io/badge/-Java-007396?style=flat-square">
+  <img src="http://img.shields.io/badge/-Jetpack-FF5D01?style=flat-square">
+  <img src="http://img.shields.io/badge/-Retrofit-6495ED?style=flat-square">
+  <img src="http://img.shields.io/badge/-Coroutine-800080?style=flat-square">
+  <img src="http://img.shields.io/badge/-Koin-FF4088?style=flat-square">
+  <img src="http://img.shields.io/badge/-Firebase-4169E1?style=flat-square">
+  <img src="http://img.shields.io/badge/-Git-000000?style=flat-square">
+</p>
+
 #
 [__Tech Blog__](https://velog.io/@jeongminji4490)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongminji4490)](https://velog.io/@jeongminji4490)
+
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongminji4490&count_private=true&show_icons=true&theme=default)
-
 
 
 <!--
