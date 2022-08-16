@@ -8,7 +8,7 @@
   <h5>Because Android programming is so much fun for me. 😄</h4>
 </div>
 
-### Stacks ⚡
+#### Stacks 🔴⭐
 
 <div align="Left">
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -16,20 +16,21 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
-#### I'm interested in.. ✨
+#### I'm interested in.. 🌱
 <div align="Left">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-418EFE?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-5DADE2?style=for-the-badge&logo=dart&logoColor=white">
 </div>
 
-###
-<img src="https://img.shields.io/badge/tech blog-EC008C?style=for-the-badge&logo=velog&logoColor=white">
+#### *Tech Blog* 📄✏️
+<a href="https://velog.io/@jeongminji4490">
+  <img src="https://img.shields.io/badge/tech blog-FA5584?style=for-the-badge&logo=velog&logoColor=white">
+</a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongminji4490)](https://velog.io/@jeongminji4490)
-
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongminji4490&count_private=true&show_icons=true&theme=default)
-
+#### *Contact* ✉️
+<a href="fghj6090@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 <!--
 **jeongminji4490/Jeongminji4490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
