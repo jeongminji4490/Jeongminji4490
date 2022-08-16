@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/62979330/176825747-56c24117-6968-4c55-a704-f15a4c3d2d00.gif" width=80% height=80%>
-</p>
 
-<div align="center">
+<div align="Left">
   <h3>Hi, there!</h3>
 </div>
 
-<div align="center">
+<div align="Left">
   <h5>I'm hoping to become an Android developer.</h4>
   <h5>Because Android programming is so much fun for me. 😄</h4>
 </div>
@@ -25,8 +22,7 @@
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </div>
 
-#
-
+###
 <img src="https://img.shields.io/badge/tech blog-EC008C?style=for-the-badge&logo=velog&logoColor=white">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongminji4490)](https://velog.io/@jeongminji4490)
