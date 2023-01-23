@@ -4,8 +4,9 @@
 </div>
 
 <div align="Left">
-  <h5>I'm hoping to become an Android developer.</h4>
-  <h5>Because Android programming is so much fun for me. 😄</h4>
+  <h5>I'm Jr. Mobile developer.</h4>
+  <h5>I've been doing android native development using Kotlin and Java. 😄</h4>
+  <h5>I'm also interested in Flutter & IOS. 😄</h4>
 </div>
 
 #### *Stacks* 🔴⭐
