@@ -4,7 +4,6 @@
 </div>
 
 <div align="Left">
-  <h5>I'm Jr. Mobile developer.</h4>
   <h5>I've been doing android native development using Kotlin and Java. 😄</h4>
   <h5>I'm also interested in Flutter & IOS. 😄</h4>
 </div>
@@ -20,6 +19,8 @@
 <div align="Left">
   <img src="https://img.shields.io/badge/flutter-418EFE?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/dart-5DADE2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://img.shields.io/badge/swift-FF0000?style=for-the-badge&logo=swift&logoColor=white">
 </div>
 
 #### *Tech Blog* 📄✏️
