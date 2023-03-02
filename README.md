@@ -5,14 +5,6 @@
 
 <div align="Left">
   <h5>I've been doing android native development using Kotlin and Java. 😄</h4>
-  <h5>I'm also interested in Flutter & IOS. </h4>
-</div>
-
-#### *Stacks* 
-<div align="Left">
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 #### *I'm interested in..* 
@@ -21,6 +13,14 @@
   <img src="https://img.shields.io/badge/dart-5DADE2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img src="https://img.shields.io/badge/swift-FF0000?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/shell-77F249?style=for-the-badge&logo=shell&logoColor=white">
+</div>
+
+#### *Stacks* 
+<div align="Left">
+  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 #### *Tech Blog* 
