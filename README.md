@@ -11,9 +11,6 @@
 <div align="Left">
   <img src="https://img.shields.io/badge/flutter-418EFE?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/dart-5DADE2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-FF0000?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/shell-77F249?style=for-the-badge&logo=shell&logoColor=white">
 </div>
 
 #### *Stacks* 
