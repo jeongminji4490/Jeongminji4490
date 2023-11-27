@@ -4,20 +4,20 @@
 </div>
 
 <div align="Left">
-  <h5>I've been doing android native development using Kotlin and Java. 😄</h4>
+  <h4>I'm a junior mobile software engineer who wants to become an skillful engineer 😄</h4>
+  <h4>I'm mainly working on mobile side by Android Native & Flutter </h4>
 </div>
 
-#### *I'm interested in..* 
-<div align="Left">
-  <img src="https://img.shields.io/badge/flutter-418EFE?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-5DADE2?style=for-the-badge&logo=dart&logoColor=white">
-</div>
++ ##### I majored in Computer Science at Chungbuk National University (2020.3 ~ 2022.8)
++ ##### I'm currently working as mobile software engineer at Ge Appliances (2022.9 ~ )
 
 #### *Stacks* 
 <div align="Left">
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-418EFE?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-5DADE2?style=for-the-badge&logo=dart&logoColor=white">
 </div>
 
 #### *Tech Blog* 
