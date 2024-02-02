@@ -4,7 +4,7 @@
 </div>
 
 <div align="Left">
-  <h4>I'm a junior mobile software engineer who wants to become an skillful engineer 😄</h4>
+  <h4>I'm a junior mobile software engineer who wants to become a skillful engineer 😄</h4>
   <h4>I'm mainly working on mobile side by Android Native & Flutter </h4>
 </div>
 
