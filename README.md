@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/tech blog-FA5584?style=for-the-badge&logo=velog&logoColor=white">
 </a>
 
+
+#### 
+<a href="https://github.com/2jun0/github-pokemon-collection">
+    <img src="https://gitpokecol.org/pokemons/jeongminji4490?face=left" alt="jeongminji4490's GitHub Pokemon Collection"/>
+</a>
+
 <!--
 **jeongminji4490/Jeongminji4490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
