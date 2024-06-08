@@ -9,7 +9,7 @@
 </div>
 
 + ##### I majored in Computer Science at Chungbuk National University (2020.3 ~ 2022.8)
-+ ##### I'm currently working as mobile software engineer at Ge Appliances (2022.9 ~ )
++ ##### I'm currently working as an associate mobile software engineer at Ge Appliances (2022.9 ~ )
 
 #### *Stacks* 
 <div align="Left">
@@ -23,12 +23,6 @@
 #### *Tech Blog* 
 <a href="https://velog.io/@jeongminji4490">
   <img src="https://img.shields.io/badge/tech blog-FA5584?style=for-the-badge&logo=velog&logoColor=white">
-</a>
-
-
-#### 
-<a href="https://github.com/2jun0/github-pokemon-collection">
-    <img src="https://gitpokecol.org/pokemons/jeongminji4490?face=left" alt="jeongminji4490's GitHub Pokemon Collection"/>
 </a>
 
 <!--
